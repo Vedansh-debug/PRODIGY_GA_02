@@ -1,5 +1,5 @@
 from huggingface_hub import HfFolder
-HfFolder.save_token("hf_RNotNMwsbyYHwiMcgRciDYYMLuIXjtjJ")
+HfFolder.save_token("token_number")
 
 from diffusers import StableDiffusionPipeline
 import torch
